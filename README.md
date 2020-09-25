@@ -7,7 +7,7 @@ Wordpress 5.5+
 Plugins: ACF, WMPL, Contact Form 7
 
 ### Dev Server
-[dev.trembl.org/metaphorest](dev.trembl.org/metaphorest) 
+[dev.trembl.org/metaphorest](dev.trembl.org/metaphorest) _(contact me for access)_
 
 ### To Do:
 - [ ] Migrate from qTranslate to WPML
