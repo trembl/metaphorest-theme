@@ -3,10 +3,8 @@
 
 ### Installation
 
-Wordpress 5.5+
-ACF
-WMPL
-Contact Form 7
+Wordpress 5.5+ 
+Plugins: ACF, WMPL, Contact Form 7
 
 ### To Do:
 - [ ] Migrate from qTranslate to WPML
