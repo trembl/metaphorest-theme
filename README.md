@@ -12,5 +12,5 @@ Contact Form 7
 - [ ] Migrate from qTranslate to WPML
 - [ ] Create User Pages
 - [ ] Create Project Archive Pages
--
+- [ ] ...
 
